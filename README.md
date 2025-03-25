@@ -2,7 +2,7 @@
 
 This project is designed to demonstrate file locking and concurrent access control in a library management system.
 The project consists of a client side and a server side interacting via web sockets. In the client side, the code displays a terminal
-interface that the user can use to perform operations.
+interface that the user can use to perform operations. Operations are made persistant via the usage of data files for storage. In this project, an M:N relation between users and books is implemented.
 
 ## Features
 
