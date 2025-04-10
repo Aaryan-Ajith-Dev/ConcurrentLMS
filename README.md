@@ -23,13 +23,13 @@ interface that the user can use to perform operations. Operations are made persi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Aaryan-Ajith-Dev/OS_MiniProject.git
+   git clone https://github.com/Aaryan-Ajith-Dev/Library-Management-System.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd OS_MiniProject
+   cd Library-Management-System
    ```
 
 3. Compile the source code:
