@@ -1,4 +1,4 @@
-# OS Mini Project
+# Library Management System
 
 This project is designed to demonstrate file locking and concurrent access control in a library management system.
 The project consists of a client side and a server side interacting via web sockets. In the client side, the code displays a terminal
