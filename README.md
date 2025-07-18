@@ -12,7 +12,7 @@ interface that the user can use to perform operations. Operations are made persi
 - CRUD operations for users to access books and admin to see users.
 - Readable code through the use of macros, functions, and a well-structured file organization.
 
-##, Requirements
+## Requirements
 
 - Linux Operating System
 - GCC
