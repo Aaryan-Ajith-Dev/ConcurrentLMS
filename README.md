@@ -29,7 +29,7 @@ interface that the user can use to perform operations. Operations are made persi
 2. Navigate to the project directory:
 
    ```bash
-   cd OS-MiniProject
+   cd ConcurrentLMS
    ```
 
 3. Compile the source code:
